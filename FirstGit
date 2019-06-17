@@ -1,5 +1,6 @@
 class FirstGit{
 public static void main(String[] args){
 System.out.println("hello github");
+System.out.println("printf the second sentence");
 }
 }
